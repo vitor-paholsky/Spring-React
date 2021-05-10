@@ -1,4 +1,4 @@
-This is an website to check the sales made by vendors. made with Spring boot and React. The main tools used were:
+This is an website to check the sales made by vendors made with Spring boot and React. The main tools used were:
 Spring boot;
 React;
 PostgresQL;
